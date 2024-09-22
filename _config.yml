@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "The Rejection Knight"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "The Rejection Knight"
 description              : &description "personal description"
 url                      : https://berserkrugal.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,7 +73,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The ing the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
