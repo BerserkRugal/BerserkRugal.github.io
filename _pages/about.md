@@ -23,8 +23,8 @@ For reference, here is the list of all the rejections I've received so far \(fir
     - Early Rejected \(Paper GB\): 3. Weak Reject, 4. Reject
 - USENIX Security 24 Cycle 2
     - Early Rejected \(Paper GB\): 2. Weak Reject, 2. Weak Reject
-- IEEE/ACM Transaction on Networking \(ToN\), Reject \(Paper DP\), 2023.08.01-2023.11.24
-- IEEE Transaction on Parallel and Distributed Systems, Desk Reject \(Paper DP\), 2023.07.24-2023.07.30.
+- IEEE/ACM Transactions on Networking \(ToN\), Reject \(Paper DP\), 2023.08.01-2023.11.24
+- IEEE Transactions on Parallel and Distributed Systems \(TPDS\), Desk Reject \(Paper DP\), 2023.07.24-2023.07.30.
 
   
 <!--
