@@ -9,22 +9,22 @@ redirect_from:
 
 I am a Ph.D. Student at Beijing Institute of Technology and University of Auckland. My research focuses on distributed consensus and threshold public key systems.
 
-I am currently working on getting my article published in prestigious security and system conference \(e.g., USENIX, S&P, CCS, NDSS, Eurosys\). However, at this time, I have not yet achieved this objective.
+I am currently pursuing the publication of my work in prestigious security and systems conferences, such as USENIX, S&P, CCS, NDSS, and EuroSys. While I have not yet reached this milestone, I remain committed to achieving it.
 For reference, here is the list of all the rejections I've received so far:
 
 - NDSS 2025 Fall
-    - Early Rejected: 2. Weak Reject, 2. Weak Reject, 2024.08.23 01:53 \(UTC+8\)
-    - Reject: 3.Weak Accept, 2. Weak Reject, 2. Weak Reject, 2024.09.21 22:00
+    - Early Rejected \(Paper AB\): 2. Weak Reject, 2. Weak Reject, 2024.08.23 01:53 \(UTC+8\)
+    - Reject \(Paper RC\): 3.Weak Accept, 2. Weak Reject, 2. Weak Reject, 2024.09.21 22:00
 - CCS 2024 B
-    - Early Rejected: 2. Weak Reject, 2. Weak Reject, 2024.05.30 20:12
-    - Reject: 3.Borderline, 2. Weak Reject, 1. Reject, 2024.07.07 15:31
+    - Early Rejected \(Paper AB\): 2. Weak Reject, 2. Weak Reject, 2024.05.30 20:12
+    - Reject \(Paper RC\): 3.Borderline, 2. Weak Reject, 1. Reject, 2024.07.07 15:31
 - S&P 2024 Winter
-    - Reject: 3.Weak Reject, 3. Weak Reject, 3. Weak Reject
-    - Early Rejected: 3. Weak Reject, 4. Reject
+    - Reject \(Paper AB\): 3.Weak Reject, 3. Weak Reject, 3. Weak Reject
+    - Early Rejected \(Paper GB\): 3. Weak Reject, 4. Reject
 - USENIX Security 24 Cycle 2
-    - Early Rejected: 2. Weak Reject, 2. Weak Reject
-- IEEE/ACM Transaction on Networking \(ToN\), Reject, 2023.08.01-2023.11.24
-- IEEE Transaction on Parallel and Distributed Systems, Desk Reject, 2023.07.24-2023.07.30.
+    - Early Rejected \(Paper GB\): 2. Weak Reject, 2. Weak Reject
+- IEEE/ACM Transaction on Networking \(ToN\), Reject \(Paper DP\), 2023.08.01-2023.11.24
+- IEEE Transaction on Parallel and Distributed Systems, Desk Reject \(Paper DP\), 2023.07.24-2023.07.30.
 
   
 <!--
