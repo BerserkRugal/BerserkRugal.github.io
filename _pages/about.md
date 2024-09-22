@@ -1,12 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a Ph.D. Student at Beijing Institute of Technology and University of Auckland. My research focuses on distributed consensus and threshold public key encryption.
+
+I am currently working on getting my article published in prestigious security and system conference \(e.g., USENIX, S&P, CCS, NDSS, Eurosys\). However, at this time, I have not yet achieved this objective.
+For reference, here is the list of all the rejections I've received so far:
+
+- NDSS 2025 Fall
+    - Early Rejected: 2. Weak Reject, 2. Weak Reject, 2024.08.23 01:53 \(UTC+8\)
+    - Reject: 3.Weak Accept, 2. Weak Reject, 2. Weak Reject, 2024.09.21 22:00
+- CCS 2024 B
+    - Early Rejected: 2. Weak Reject, 2. Weak Reject, 2024.05.30 20:12
+    - Reject: 3.Borderline, 2. Weak Reject, 1. Reject, 2024.07.07 15:31
+- S&P 2024 Winter
+    - Reject: 3.Weak Reject, 3. Weak Reject, 3. Weak Reject
+    - Early Rejected: 3. Weak Reject, 4. Reject
+- USENIX Security 24 Cycle 2
+    - Early Rejected: 2. Weak Reject, 2. Weak Reject
+- IEEE/ACM Transaction on Networking \(ToN\), Reject, 2023.08.01-2023.11.24
+- IEEE Transaction on Parallel and Distributed Systems, Desk Reject, 2023.07.24-2023.07.30.
+
+  
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -43,7 +64,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
+--!>
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
