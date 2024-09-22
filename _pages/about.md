@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student at Beijing Institute of Technology and University of Auckland. My research focuses on distributed consensus and threshold public key encryption.
+I am a Ph.D. Student at Beijing Institute of Technology and University of Auckland. My research focuses on distributed consensus and threshold public key systems.
 
 I am currently working on getting my article published in prestigious security and system conference \(e.g., USENIX, S&P, CCS, NDSS, Eurosys\). However, at this time, I have not yet achieved this objective.
 For reference, here is the list of all the rejections I've received so far:
