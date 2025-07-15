@@ -12,6 +12,8 @@ I am a Ph.D. Student at Beijing Institute of Technology and University of Auckla
 I am currently pursuing the publication of my work in prestigious security and systems conferences, such as USENIX, S&P, CCS, NDSS, and EuroSys. While I have not yet reached this milestone, I remain committed to achieving it.
 For reference, here is the list of all the rejections I've received so far \(first author only\):
 
+- CCS 2025 B
+    - Early Rejected \(Paper RC\): 1. Reject, 3. Borderline, 2025.5.17 23:33 \(UTC+8\)
 - EuroSys 2025 Fall
     - Reject \(Paper RC\): 1. Reject, 2. Weak reject, 2.Weak reject, 2024.12.24 23:49 \(UTC+8\)
 - USENIX Sec '25 Cycle 1
